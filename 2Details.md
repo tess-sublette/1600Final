@@ -11,6 +11,7 @@ SVG files can be written by hand with XML code and can create images using shape
 - **Name It:** Name the file and add the extension .svg at the end       
        
 ### Step 2: Start Coding       
+- Make sure it has `html` at the front
 - Start the code with: `<svg>`       
 - Set the size of the SVG by adding in: `width="--" height="--"` to the `<svg>` (Defaulted to pixel measurements initially)       
 - Declare the shape on a new line starting with: `<circle`       
