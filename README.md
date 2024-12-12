@@ -1,7 +1,7 @@
 # Scalable Vector Graphics (SVG)   
 **By:** Tess Sublette     
 **Summary:** This tutorial introduces Scalable Vector Graphics, explaining what they are, the benefits, and how to create and edit basic SVG files.    
-**Target Audience:** College students who are interested in learning the basics of how to use SVG for designs or projects.     
+**Target Audience:** College students who are interested in learning the basics and benefits of SVGs.
       
 ----      
     
