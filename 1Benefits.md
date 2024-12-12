@@ -1,4 +1,4 @@
-# What SVG is and how it can benefit you     
+# What SVG are and how it can benefit you     
       
 ## What is it?       
 SVG is an acronym for Scalable Vector Graphics. It's an image format that is resolution independent. Meaning it does not lose quality when resized unlike other types such as PNGs or JPEGs.     
