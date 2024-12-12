@@ -22,7 +22,7 @@ SVG files can be written by hand with XML code and can create images using shape
 ```html       
 <svg width="200" height="200">       
   <circle cx="100" cy="100" r="80" fill="blue" />       
-</svg>       
+</svg>```       
 
 ## Step 4: Save Code       
 - Make sure to save the file with a .svg extension (ex. circle.svg)       
