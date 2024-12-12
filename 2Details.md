@@ -18,9 +18,11 @@ SVG files can be written by hand with XML code and can create images using shape
 - Finish off that line with choosing a color for the circle: `fill="blue" />`       
 - Final line close the SVG container: `</svg>`       
        
-## Step 3: Final Code       
-- Code should be finalized for the demo
-- Example of final version is at the bottom of this       
+## Step 3: Final Code Example       
+`html       
+<svg width="200" height="200">       
+  <circle cx="100" cy="100" r="80" fill="blue" />       
+</svg>`    
 
 ## Step 4: Save Code       
 - Make sure to save the file with a .svg extension (ex. circle.svg)       
@@ -43,8 +45,3 @@ In this tutorial you will learn:
 [3. Tools and examples for editing SVG files](3Examples.md)      
 [4. Main Page](README.md)      
 
-## Step 3: Final Code       
-```html       
-<svg width="200" height="200">       
-  <circle cx="100" cy="100" r="80" fill="blue" />       
-</svg>```
