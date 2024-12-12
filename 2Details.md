@@ -35,7 +35,8 @@ SVG files can be written by hand with XML code and can create images using shape
 - **Computer:** Can open it with an image viewer that supports SVG (ex. macOS Preview)       
            
 ----   
-            
+
+## Demo Conclusion:
 This was a simple demonstration to show you how easy it is! Once you become more familar with this code you can utilize SVGs for assignments, projects, presentations, etc. in no time.             
 ----             
              
