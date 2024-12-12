@@ -11,18 +11,16 @@ SVG files can be written by hand with XML code and can create images using shape
 - **Name It:** Name the file and add the extension .svg at the end       
        
 ## Step 2: Start Coding       
-- Start the code with: "<svg>"       
-- Set the size of the SVG by adding in: "width="--" height="--"" to the "<svg>" (Defaulted to pixel measurements initially)       
-- Declare the shape on a new line starting with: "<circle"       
-- After on the same line declare the cordinates and radius for the circle: "cx="--" cy="--" r="--""       
-- Finish off that line with choosing a color for the circle: "fill="blue" />"       
-- Final line close the SVG container: "</svg>"       
+- Start the code with: `<svg>`       
+- Set the size of the SVG by adding in: `width="--" height="--"` to the `<svg>` (Defaulted to pixel measurements initially)       
+- Declare the shape on a new line starting with: `<circle`       
+- After on the same line declare the cordinates and radius for the circle: `cx="--" cy="--" r="--"`       
+- Finish off that line with choosing a color for the circle: `fill="blue" />`       
+- Final line close the SVG container: `</svg>`       
        
 ## Step 3: Final Code       
-```html       
-<svg width="200" height="200">       
-  <circle cx="100" cy="100" r="80" fill="blue" />       
-</svg>```       
+- Code should be finalized for the demo
+- Example of final version is at the bottom of this       
 
 ## Step 4: Save Code       
 - Make sure to save the file with a .svg extension (ex. circle.svg)       
@@ -44,3 +42,9 @@ In this tutorial you will learn:
 [2. How to create and view SVG files](2Details.md)      
 [3. Tools and examples for editing SVG files](3Examples.md)      
 [4. Main Page](README.md)      
+
+## Step 3: Final Code       
+```html       
+<svg width="200" height="200">       
+  <circle cx="100" cy="100" r="80" fill="blue" />       
+</svg>```
