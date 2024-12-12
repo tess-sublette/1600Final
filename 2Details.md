@@ -37,7 +37,7 @@ SVG files can be written by hand with XML code and can create images using shape
        
 ----             
              
-#### Navigation      
+### Navigation      
 Scalable Vector Graphics is a widely-used image format.      
 In this tutorial you will learn:      
 [1. What SVG is and how it can benefit you](1Benefits.md)      
